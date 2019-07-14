@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_fav">Add as Favorite</string>
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_home">Home</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
